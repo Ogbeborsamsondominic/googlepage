@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:  sans-serif;
+
+}
+
+.dom img{
+    display: block;
+    width: 15rem;
+    margin: 10rem auto 0;
+    cursor: pointer;
+}
+
+.dom h1
+
+{
+    display: block;
+    width: 15rem;
+    cursor: pointer;
+
+}
+
+.sam2
+{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+margin: 1rem auto 0;
+width: 35%;
+border-radius: 50px;
+height: 2rem;
+align-items: center;
+justify-content: center;
+background-color: transparent;
+cursor: pointer;
+border: 0.05rem solid rgb(84, 80, 80, 0.5);
+}
+
+.searcha{
+    width: 75%;
+    border: none;
+    height: 100%;
+    outline: none;
+}
+.sam2a
+{
+    width: 80%;
+    height: 14%;
+    margin: 1.5rem auto 0;
+    text-align: center;
+
+    
+
+}
+
+.rt
+{
+    cursor: pointer;
+}
+
+.search-icon{
+    width: 1rem;
+    height: 1rem;
+    margin: 0.25rem;
+
+}
+
+.goxjub{
+    width: 1rem;
+    height: 1rem;
+    margin: 0.25rem;
+}
+
+.Gdd5U{
+    width: 1rem;
+    height: 1rem;
+    margin: 0.25rem;
+}
+
+#search-icon{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+}
+
+#tribes{
+    display: flex;
+    width: 35%;
+    flex-direction: row;
+    margin: 2rem auto;
+    justify-content: space-around;
+}
+
+.tribe{
+    text-decoration: none;
+
+}
+
+#tribes a{color: #1a0dab;}
+ #tribes p{color: rgb(79, 75, 75);}
+
+a:hover{
+    text-decoration: underline;
+
+}
+
+
+
+
+
+
+
+
+
+
